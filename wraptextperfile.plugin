@@ -1,0 +1,9 @@
+[Plugin]
+Loader=python3
+Module=wraptextperfile
+IAge=3
+Name=Wrap Text Per File
+Description=Add the following configuration menu back for each file opened: Automatic Indentation, Display line numbers, Display right margin, Highlight current line, and Text wrapping. Fixes https://gitlab.gnome.org/GNOME/gedit/-/issues/569
+Authors=lxylxy123456 <lixiaoyi13691419520@gmail.com>
+Copyright=Copyright (C) 2023 lxylxy123456 <lixiaoyi13691419520@gmail.com>
+Website=https://github.com/lxylxy123456/gedit-wraptextperfile
