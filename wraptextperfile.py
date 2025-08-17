@@ -69,18 +69,18 @@ class ExamplePyPlugin(GObject.Object, Gedit.WindowActivatable):
 		assert self.statusbar is None
 		assert self.menu_button is None
 
-		# Add menu button to status bar
+		# Add menu button to status bar. If we're fetching the right
+		# children, `a` and `b` should be the tab width and syntax
+		# coloring menu buttons, respectively
 		self.statusbar = self.window.get_statusbar()
-		# afterwards: a.get_child().get_children()[0].get_label() == 'Tab ...'
 		a = self.statusbar.get_children()[-3]
-		# afterwards: b.get_child().get_children()[0].get_label() == 'Plain ...'
 		b = self.statusbar.get_children()[-4]
-		assert a.__class__.__name__ == 'GeditStatusMenuButton'
-		assert b.__class__.__name__ == 'GeditStatusMenuButton'
+		assert a.__class__.__name__ == 'StatusMenuButton'
+		assert b.__class__.__name__ == 'StatusMenuButton'
 		self.menu_button = type(a)()
 		self.statusbar.pack_end(self.menu_button, False, False, 0)
 		#assert self.menu_button == self.statusbar.get_children()[-5]
-		self.menu_button.get_child().get_children()[0].set_label('569')
+		self.menu_button.get_child().get_children()[1].set_label('569')
 
 		# Setup menu model
 		builder = Gtk.Builder.new_from_string(MENU_XML, -1)
