@@ -15,6 +15,11 @@ Copy `wraptextperfile.plugin` and `wraptextperfile.py` to Gedit plugins
 directory. This is `/usr/share/gedit/plugins/` for system or
 `~/.local/share/gedit/plugins` for user.
 
+## Older versions
+
+The current version of this plugin is tested against Gedit 48.1 (Debian 13).
+If you are using Gedit 44, please use `gedit-44` branch in this repo.
+
 ## Demo
 
 Gedit 43:

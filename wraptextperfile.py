@@ -1,5 +1,5 @@
 #   Wrap Text Per File - Allow different text wrapping configurations per file
-#   Copyright (C) 2023  lxylxy123456
+#   Copyright (C) 2023-2025  lxylxy123456
 #
 #   This program is free software; you can redistribute it and/or modify
 #   it under the terms of the GNU General Public License as published by
@@ -20,7 +20,7 @@ Many logic are from gedit/gedit-window.c, see:
 	https://gitlab.gnome.org/GNOME/gedit/-/compare/d7e6d63e...bcd35bfb
 """
 
-from gi.repository import GObject, Gedit, Gtk, Gio, GLib
+from gi.repository import GObject, Gedit, Gtk, Gio, GLib, Tepl
 
 MENU_XML = """
 <?xml version="1.0" encoding="UTF-8"?>
@@ -69,23 +69,25 @@ class ExamplePyPlugin(GObject.Object, Gedit.WindowActivatable):
 		assert self.statusbar is None
 		assert self.menu_button is None
 
-		# Add menu button to status bar
-		self.statusbar = self.window.get_statusbar()
-		# afterwards: a.get_child().get_children()[0].get_label() == 'Tab ...'
-		a = self.statusbar.get_children()[-3]
-		# afterwards: b.get_child().get_children()[0].get_label() == 'Plain ...'
-		b = self.statusbar.get_children()[-4]
-		assert a.__class__.__name__ == 'GeditStatusMenuButton'
-		assert b.__class__.__name__ == 'GeditStatusMenuButton'
-		self.menu_button = type(a)()
-		self.statusbar.pack_end(self.menu_button, False, False, 0)
-		#assert self.menu_button == self.statusbar.get_children()[-5]
-		self.menu_button.get_child().get_children()[0].set_label('569')
+		# Create menu button
+		self.menu_button = Tepl.StatusMenuButton()
+		children = self.menu_button.get_child().get_children()
+		label, = filter(lambda x: isinstance(x, Gtk.Label), children)
+		label.set_label('569')
 
 		# Setup menu model
 		builder = Gtk.Builder.new_from_string(MENU_XML, -1)
 		menu = builder.get_object("line-col-menu")
 		self.menu_button.set_menu_model(menu)
+
+		# Add menu button to status bar, see also:
+		# https://gitlab.gnome.org/World/gedit/gedit/-/issues/569#note_1812626
+		self.statusbar = self.window.get_statusbar()
+		self.statusbar.pack_end(self.menu_button, False, False, 0)
+
+		# The button is not visible unless we call show()
+		# https://docs.gtk.org/gtk3/method.Widget.show.html
+		self.menu_button.show_all()
 
 		self.sync_current_tab_actions()
 
