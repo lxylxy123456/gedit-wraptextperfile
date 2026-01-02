@@ -1,0 +1,19 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Automatic Indentation"
+msgstr "స్వయంచాలకంగా పాఠ్యము మొదలుస్థాయిని  జరపటము"
+
+msgid "Display line numbers"
+msgstr "వరుస సంఖ్యలను ప్రదర్శించు"
+
+msgid "Display right margin"
+msgstr "కుడి అంచును ప్రదర్శించు"
+
+msgid "Highlight current line"
+msgstr "ప్రస్తుత వరుసను ఉద్దీపనం చేయుము"
+
+msgid "Text wrapping"
+msgstr "పాఠ్యము చుట్టుస్థితి"
+

@@ -1,0 +1,19 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Automatic Indentation"
+msgstr "ಸ್ವಯಂಚಾಲಿತ ಇಂಡೆಂಟೇಶನ್"
+
+msgid "Display line numbers"
+msgstr "ಸಾಲಿನ ಸಂಖ್ಯೆ ತೋರಿಸು"
+
+msgid "Display right margin"
+msgstr "ಬಲ ಅಂಚನ್ನು ತೋರಿಸು"
+
+msgid "Highlight current line"
+msgstr "ಪ್ರಸ್ತುತ ಸಾಲನ್ನು ಹೈಲೈಟ್ ಮಾಡು"
+
+msgid "Text wrapping"
+msgstr "ಪಠ್ಯ ಆವರಿಕೆ (ರ‌್ಯಾಪಿಂಗ್)"
+

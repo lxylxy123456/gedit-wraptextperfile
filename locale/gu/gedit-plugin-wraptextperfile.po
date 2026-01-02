@@ -1,0 +1,19 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Automatic Indentation"
+msgstr "આપોઆપ હાંસિયો"
+
+msgid "Display line numbers"
+msgstr "લીટી ક્રમાંકો પ્રદર્શિત કરો"
+
+msgid "Display right margin"
+msgstr "જમણો હાંસિયો દર્શાવો"
+
+msgid "Highlight current line"
+msgstr "હાલની લીટી ને પ્રકાશિત કરો"
+
+msgid "Text wrapping"
+msgstr "લખાણ લપેટો"
+

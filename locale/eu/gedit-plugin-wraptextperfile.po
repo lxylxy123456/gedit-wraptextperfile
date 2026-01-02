@@ -1,0 +1,19 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Automatic Indentation"
+msgstr "Koska automatikoa"
+
+msgid "Display line numbers"
+msgstr "Bistaratu lerro-zenbakiak"
+
+msgid "Display right margin"
+msgstr "Bistaratu eskuineko marjina"
+
+msgid "Highlight current line"
+msgstr "Nabarmendu uneko lerroa"
+
+msgid "Text wrapping"
+msgstr "Testua egokitzea"
+

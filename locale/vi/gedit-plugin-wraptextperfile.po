@@ -1,0 +1,19 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Automatic Indentation"
+msgstr "Thụt lề tự động"
+
+msgid "Display line numbers"
+msgstr "Hiện số dòng"
+
+msgid "Display right margin"
+msgstr "Hiện lề phải"
+
+msgid "Highlight current line"
+msgstr "Tô sáng dòng hiện tại"
+
+msgid "Text wrapping"
+msgstr "Ngắt dòng văn bản dài"
+

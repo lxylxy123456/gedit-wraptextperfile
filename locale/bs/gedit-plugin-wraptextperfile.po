@@ -1,0 +1,19 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Automatic Indentation"
+msgstr "Automatsko uvlačenje"
+
+msgid "Display line numbers"
+msgstr "Prikaži brojeve linija"
+
+msgid "Display right margin"
+msgstr "Prikaži densu marginu"
+
+msgid "Highlight current line"
+msgstr "Istakni tekući red"
+
+msgid "Text wrapping"
+msgstr "Uvijanje teksta"
+

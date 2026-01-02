@@ -1,0 +1,19 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Automatic Indentation"
+msgstr "Автошегіну"
+
+msgid "Display line numbers"
+msgstr "Жол нөмірлерін көрсету"
+
+msgid "Display right margin"
+msgstr "Оң жақ шет өрісін көрсету"
+
+msgid "Highlight current line"
+msgstr "Ағымдағы жолды түспен ерекшелеу"
+
+msgid "Text wrapping"
+msgstr "Мәтінді тасымалдау"
+

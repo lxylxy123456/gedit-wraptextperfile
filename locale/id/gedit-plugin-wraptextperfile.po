@@ -1,0 +1,19 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Automatic Indentation"
+msgstr "Indentasi Otomatis"
+
+msgid "Display line numbers"
+msgstr "Tampilkan nomor baris"
+
+msgid "Display right margin"
+msgstr "Tampilkan batas kanan"
+
+msgid "Highlight current line"
+msgstr "Tandai baris kini"
+
+msgid "Text wrapping"
+msgstr "Pelipatan teks"
+

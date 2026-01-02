@@ -1,0 +1,19 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Automatic Indentation"
+msgstr "தானியக்க உள்ளடக்கம்"
+
+msgid "Display line numbers"
+msgstr "வரிசை எண்களைக் காண்பி"
+
+msgid "Display right margin"
+msgstr "வலது ஓரத்தைக் காண்பி"
+
+msgid "Highlight current line"
+msgstr "நடப்பு வரியை தனிப்படுத்திக் காட்டு"
+
+msgid "Text wrapping"
+msgstr "உரையை மடிப்பு"
+

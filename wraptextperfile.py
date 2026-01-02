@@ -1,5 +1,5 @@
 #   Wrap Text Per File - Allow different text wrapping configurations per file
-#   Copyright (C) 2023-2025  lxylxy123456
+#   Copyright (C) 2023-2026  lxylxy123456
 #
 #   This program is free software; you can redistribute it and/or modify
 #   it under the terms of the GNU General Public License as published by

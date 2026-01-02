@@ -1,0 +1,19 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Automatic Indentation"
+msgstr "Sangría automática"
+
+msgid "Display line numbers"
+msgstr "Mostrar números de línea"
+
+msgid "Display right margin"
+msgstr "Mostrar el margen derecho"
+
+msgid "Highlight current line"
+msgstr "Resaltar la línea actual"
+
+msgid "Text wrapping"
+msgstr "Ajuste del texto"
+

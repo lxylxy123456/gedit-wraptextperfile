@@ -1,0 +1,19 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Automatic Indentation"
+msgstr "自動インデント"
+
+msgid "Display line numbers"
+msgstr "行番号を表示する"
+
+msgid "Display right margin"
+msgstr "右マージンを表示する"
+
+msgid "Highlight current line"
+msgstr "カーソル行を強調表示する"
+
+msgid "Text wrapping"
+msgstr "テキストを折り返す"
+

@@ -1,0 +1,19 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Automatic Indentation"
+msgstr "Sjálfvirkur inndráttur"
+
+msgid "Display line numbers"
+msgstr "Birta línunúmer"
+
+msgid "Display right margin"
+msgstr "Birta hægri spássíu"
+
+msgid "Highlight current line"
+msgstr "Áherslulita núverandi línu"
+
+msgid "Text wrapping"
+msgstr "Textaskrið"
+

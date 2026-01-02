@@ -1,0 +1,19 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Automatic Indentation"
+msgstr "ਆਟੋਮੈਟਿਕ ਹਾਸ਼ੀਏ ਤੋਂ ਦੂਰ"
+
+msgid "Display line numbers"
+msgstr "ਲਾਈਨ ਨੰਬਰ ਵੇਖਾਓ"
+
+msgid "Display right margin"
+msgstr "ਸੱਜੇ ਪਾਸੇ ਹਾਸ਼ੀਆ ਵੇਖੋ"
+
+msgid "Highlight current line"
+msgstr "ਮੌਜੂਦਾ ਲਾਈਨ ਉਭਾਰੋ"
+
+msgid "Text wrapping"
+msgstr "ਟੈਕਸਟ ਸਮੇਟੋ"
+

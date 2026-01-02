@@ -1,0 +1,19 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Automatic Indentation"
+msgstr "স্বচালিত ইণ্ডেন্টেষণ"
+
+msgid "Display line numbers"
+msgstr "শাৰী সংখ্যা প্ৰদৰ্শন কৰক"
+
+msgid "Display right margin"
+msgstr "সোঁ সীমা দেখাওক"
+
+msgid "Highlight current line"
+msgstr "বৰ্তমানৰ শাৰী উজ্জ্বল কৰক"
+
+msgid "Text wrapping"
+msgstr "লিখনি মেৰিওৱা"
+

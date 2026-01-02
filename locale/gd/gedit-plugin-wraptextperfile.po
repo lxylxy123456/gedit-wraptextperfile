@@ -1,0 +1,19 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Automatic Indentation"
+msgstr "Eag fhèin-obrachail"
+
+msgid "Display line numbers"
+msgstr "Seall àireamhan loidhne"
+
+msgid "Display right margin"
+msgstr "Seall am marghan deas"
+
+msgid "Highlight current line"
+msgstr "Soillsich an loidhne làithreach"
+
+msgid "Text wrapping"
+msgstr "Pasgadh-teacsa"
+

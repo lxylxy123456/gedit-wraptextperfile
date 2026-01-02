@@ -1,0 +1,19 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Automatic Indentation"
+msgstr "Automatikus behúzás"
+
+msgid "Display line numbers"
+msgstr "Sorok számának megjelenítése"
+
+msgid "Display right margin"
+msgstr "Jobb oldali margó megjelenítése"
+
+msgid "Highlight current line"
+msgstr "Aktuális sor kiemelése"
+
+msgid "Text wrapping"
+msgstr "Szöveg tördelése"
+

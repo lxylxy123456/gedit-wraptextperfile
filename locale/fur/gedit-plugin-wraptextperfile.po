@@ -1,0 +1,19 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Automatic Indentation"
+msgstr "Tornade in posizion automatiche"
+
+msgid "Display line numbers"
+msgstr "Mostre numars di rie"
+
+msgid "Display right margin"
+msgstr "Mostre margjin di diestre"
+
+msgid "Highlight current line"
+msgstr "Evidenzie rie curint"
+
+msgid "Text wrapping"
+msgstr "Rie gnove automatiche"
+

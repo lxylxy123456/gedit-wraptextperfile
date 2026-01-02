@@ -1,0 +1,16 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Display line numbers"
+msgstr "पङ्क्ति सङ्ख्या प्रदर्शन गर्नुहोस्"
+
+msgid "Display right margin"
+msgstr "दायाँ सीमान्त प्रदर्शन गर्नुहोस्"
+
+msgid "Highlight current line"
+msgstr "हालको लाइन हाइलाइट गर्नुहोस्"
+
+msgid "Text wrapping"
+msgstr "पाठ बेराइ"
+

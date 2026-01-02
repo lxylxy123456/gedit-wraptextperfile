@@ -1,0 +1,19 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Automatic Indentation"
+msgstr "تورفتگی خودکار"
+
+msgid "Display line numbers"
+msgstr "نمایش شماره خط‌ها"
+
+msgid "Display right margin"
+msgstr "نمایش حاشیهٔ راست"
+
+msgid "Highlight current line"
+msgstr "نشانه‌گذاری خط فعلی"
+
+msgid "Text wrapping"
+msgstr "شکاندن متن"
+

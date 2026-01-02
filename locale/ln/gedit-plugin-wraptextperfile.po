@@ -1,0 +1,19 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Automatic Indentation"
+msgstr "Bobéndi otomatíki"
+
+msgid "Display line numbers"
+msgstr "Monisa ba numelo ya linie"
+
+msgid "Display right margin"
+msgstr "Monisa marzi n'elómi"
+
+msgid "Highlight current line"
+msgstr "Ngengisa liníɛ ya sikawa "
+
+msgid "Text wrapping"
+msgstr "Liníɛ élai"
+

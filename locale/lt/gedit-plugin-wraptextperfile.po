@@ -1,0 +1,19 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Automatic Indentation"
+msgstr "Automatinis įtraukimas"
+
+msgid "Display line numbers"
+msgstr "Rodyti eilučių numerius"
+
+msgid "Display right margin"
+msgstr "Rodyti dešinę paraštę"
+
+msgid "Highlight current line"
+msgstr "Paryškinti dabartinę eilutę"
+
+msgid "Text wrapping"
+msgstr "Teksto laužymas"
+

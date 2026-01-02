@@ -1,0 +1,19 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Automatic Indentation"
+msgstr "Автоматические отступы"
+
+msgid "Display line numbers"
+msgstr "Показывать номера строк"
+
+msgid "Display right margin"
+msgstr "Показывать границу справа"
+
+msgid "Highlight current line"
+msgstr "Подсвечивать текущую строку"
+
+msgid "Text wrapping"
+msgstr "Перенос текста"
+

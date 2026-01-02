@@ -1,0 +1,19 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Automatic Indentation"
+msgstr "स्व अंतर सोडा"
+
+msgid "Display line numbers"
+msgstr "ओळ क्रमांक दाखवा"
+
+msgid "Display right margin"
+msgstr "उजवी समास दाखवा"
+
+msgid "Highlight current line"
+msgstr "आत्ताची ओळ ठळक करा"
+
+msgid "Text wrapping"
+msgstr "मजकूर घट्ट बसवणे"
+

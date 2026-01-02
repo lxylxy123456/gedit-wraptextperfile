@@ -1,0 +1,19 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Automatic Indentation"
+msgstr "സ്വയം വിടവിടുക"
+
+msgid "Display line numbers"
+msgstr "വരി സൂചിപ്പിയ്ക്കുന്ന സംഖ്യ പ്രദര്‍ശിപ്പിയ്ക്കുക"
+
+msgid "Display right margin"
+msgstr "വലത്തേ അതിരു് കാണിയ്ക്കുക"
+
+msgid "Highlight current line"
+msgstr "നിലവിലുളള വരി എടുത്തു് കാണിയ്ക്കുക"
+
+msgid "Text wrapping"
+msgstr "പദാവലി നിരത്തല്‍"
+

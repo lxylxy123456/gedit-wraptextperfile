@@ -1,0 +1,19 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Automatic Indentation"
+msgstr "Automaattinen sisennys"
+
+msgid "Display line numbers"
+msgstr "Näytä rivinumerot"
+
+msgid "Display right margin"
+msgstr "Näytä oikea reunus"
+
+msgid "Highlight current line"
+msgstr "Korosta nykyinen rivi"
+
+msgid "Text wrapping"
+msgstr "Tekstin rivitys"
+

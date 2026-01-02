@@ -1,0 +1,19 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Automatic Indentation"
+msgstr "Automātiskās atkāpes"
+
+msgid "Display line numbers"
+msgstr "Rādīt rindu numurus"
+
+msgid "Display right margin"
+msgstr "Rādīt labo malu"
+
+msgid "Highlight current line"
+msgstr "Izcelt aktīvo rindu"
+
+msgid "Text wrapping"
+msgstr "Teksta aplaušana"
+

@@ -1,0 +1,19 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Automatic Indentation"
+msgstr "Indentare automată"
+
+msgid "Display line numbers"
+msgstr "Afișează numerotarea rândurilor"
+
+msgid "Display right margin"
+msgstr "Afișează marginea dreaptă"
+
+msgid "Highlight current line"
+msgstr "Evidențiază rândul curent"
+
+msgid "Text wrapping"
+msgstr "Încadrare text"
+

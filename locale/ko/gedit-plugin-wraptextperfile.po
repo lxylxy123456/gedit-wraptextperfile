@@ -1,0 +1,19 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Automatic Indentation"
+msgstr "자동 들여쓰기"
+
+msgid "Display line numbers"
+msgstr "줄 번호 표시"
+
+msgid "Display right margin"
+msgstr "오른쪽 여백 표시"
+
+msgid "Highlight current line"
+msgstr "현재 줄 강조"
+
+msgid "Text wrapping"
+msgstr "줄 바꿈"
+

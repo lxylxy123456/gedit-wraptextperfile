@@ -1,0 +1,19 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Automatic Indentation"
+msgstr "Automatické odsadenie"
+
+msgid "Display line numbers"
+msgstr "Zobraziť čísla _riadkov"
+
+msgid "Display right margin"
+msgstr "Zobraziť pravý okraj"
+
+msgid "Highlight current line"
+msgstr "Zvýrazniť _aktuálny riadok"
+
+msgid "Text wrapping"
+msgstr "Zalamovanie textu"
+
