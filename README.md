@@ -15,6 +15,12 @@ Copy `wraptextperfile.plugin` and `wraptextperfile.py` to Gedit plugins
 directory. This is `/usr/share/gedit/plugins/` for system or
 `~/.local/share/gedit/plugins` for user.
 
+### Installing locale
+
+Copy `locale/${YOUR_LOCALE}/gedit-plugin-wraptextperfile.mo` to
+`/usr/share/locale/${YOUR_LOCALE}/LC_MESSAGES/gedit-plugin-wraptextperfile.mo`
+(needs sudo).
+
 ## Older versions
 
 The current version of this plugin is tested against Gedit 48.1 (Debian 13).

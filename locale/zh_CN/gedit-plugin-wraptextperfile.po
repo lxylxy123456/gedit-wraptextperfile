@@ -1,0 +1,19 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Automatic Indentation"
+msgstr "自动缩进"
+
+msgid "Display line numbers"
+msgstr "显示行号"
+
+msgid "Display right margin"
+msgstr "显示右侧提示线"
+
+msgid "Highlight current line"
+msgstr "突出显示当前行"
+
+msgid "Text wrapping"
+msgstr "文本折行"
+

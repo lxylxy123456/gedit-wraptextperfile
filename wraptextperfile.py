@@ -22,9 +22,14 @@ Many logic are from gedit/gedit-window.c, see:
 
 from gi.repository import GObject, Gedit, Gtk, Gio, GLib, Tepl
 
+# Regarding locale:
+# https://discourse.gnome.org/t/gtk-builder-does-not-localize-translate-text/9173/4
+# Looks like the mo file must be installed to
+# /usr/share/locale/${YOUR_LOCALE}/LC_MESSAGES/gedit-plugin-wraptextperfile.mo
+
 MENU_XML = """
 <?xml version="1.0" encoding="UTF-8"?>
-<interface>
+<interface domain="gedit-plugin-wraptextperfile">
   <menu id="line-col-menu">
     <section>
       <item>
